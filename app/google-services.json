@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956565384224",
+    "project_id": "muidam",
+    "storage_bucket": "muidam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956565384224:android:3ba9f9159695935c26a045",
+        "android_client_info": {
+          "package_name": "com.example.muidam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJX1lpFPqlJV8SEljLUt0WvQ3ewZJctQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
